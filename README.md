@@ -21,8 +21,8 @@
 - Integrating data from various scout reports to create visualizations that identify player strengths and weaknesses, with an expected 20% improvement in team decision-making.
 - Developed an AI chatbot for scouts to interact with the dashboard utilizing the RAG pipeline.
 <div style="display: flex;">
-  <img src="images/RADAR.png" alt="Radar plot" style="margin-right: 10px; width: 800px;">
-  <img src="images/Scout_AI_Assistant.png" alt="Scout AI Assistant" style="width: 800px;">
+  <img src="images/RADAR.png" alt="Radar plot" style="margin-right: 10px; width: 400px;">
+  <img src="images/Scout_AI_Assistant.png" alt="Scout AI Assistant" style="width: 400px;">
 </div>
 
 **Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023_ - _December 2023_)**
