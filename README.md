@@ -1,13 +1,11 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-#### Programming: Python (NumPy, matplotlib, pandas, Scikit-learn), SQL, R (Shiny, Statistical Packages, ggplot2, rvest), Java, C/C++, DAX.
-#### Skills: Mathematics (statistics and probability), Data Visualisation, Data mining and data QA, Microsoft Azure, Agile methodology, SSIS/SSRS/SSAS, Google Analytics, NLP, AI, RAG,  LangChain, Time series analysis (ARIMA, GARCH, LSTM), A/B Testing, Statistical analysis (Hypothesis testing, p-value), Problem-solving and troubleshooting.
-#### Domain: Insurance, Retail and Consumer Goods, Financial, Health, Sports.
-#### Tools and Technology: Microsoft Office Suite (Dynamic 365, Power BI, Excel, etc.), SQL Server Management Studio, Jira, Guidewire, NetLogo, Jupyter, Rstudio, Visual Studio Enterprise, Teradata, Jupyter, and Visio.
-#### Interests: Football, Cricket, Tennis, Sports Analytics, General Knowledge, Political Science, Stock Market.
-
-![image](https://github.com/user-attachments/assets/2bdf8838-7109-4c93-9d30-47afd84f1fd8)
+**Technical Skills**: Python, SQL, AWS, Snowflake, MATLAB
+**Programming**: Python (NumPy, matplotlib, pandas, Scikit-learn), SQL, R (Shiny, Statistical Packages, ggplot2, rvest), Java, C/C++, DAX.
+**Skills**: Mathematics (statistics and probability), Data Visualisation, Data mining and data QA, Microsoft Azure, Agile methodology, SSIS/SSRS/SSAS, Google Analytics, NLP, AI, RAG,  LangChain, Time series analysis (ARIMA, GARCH, LSTM), A/B Testing, Statistical analysis (Hypothesis testing, p-value), Problem-solving and troubleshooting.
+**Domain**: Insurance, Retail and Consumer Goods, Financial, Health, Sports.
+**Tools and Technology**: Microsoft Office Suite (Dynamic 365, Power BI, Excel, etc.), SQL Server Management Studio, Jira, Guidewire, NetLogo, Jupyter, Rstudio, Visual Studio Enterprise, Teradata, Jupyter, and Visio.
+**Interests**: Football, Cricket, Tennis, Sports Analytics, General Knowledge, Political Science, Stock Market.
 
 
 ## Work Experience
@@ -17,7 +15,6 @@
 - Developed performance analysis dashboards and conducted training sessions, resulting in a 10% increase in data-driven decision-making within the club.
 - Integrating data from various scout reports to create visualizations that identify player strengths and weaknesses, with an expected 20% improvement in team decision-making.
 - Developed an AI chatbot for scouts to interact with the dashboard utilizing the RAG pipeline.
-![image](https://github.com/user-attachments/assets/c6924e51-a859-4cdd-a9e1-923d2fa200b5)
 ![Scout AI Assitant](/assets/img/Scout AI Assitant.jpeg)
 
 **Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023 - _December 2023)**
@@ -25,7 +22,6 @@
 - Analysed macroeconomic indicators to assess their influence on the prices of Coffee Future.
 - Applied statistical and econometrics modelling techniques to achieve a mean absolute percentage error of less than 7% in predicting Coffee Future.
 - Recommended strategies to farmers that can increase sustainable coffee growth in tropical regions by 25%.
-![image](https://github.com/user-attachments/assets/db657a1e-be1a-4b6d-ad52-94554e371053)
 ![Coffee Prediction](/assets/img/Scout AI Assitant.jpeg)
 
 **Data Analytics Consultant @ Capgemini (_March 2022 - _August 2022)**
