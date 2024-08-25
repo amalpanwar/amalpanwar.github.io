@@ -20,7 +20,7 @@
 - Developed performance analysis dashboards and conducted training sessions, resulting in a 10% increase in data-driven decision-making within the club.
 - Integrating data from various scout reports to create visualizations that identify player strengths and weaknesses, with an expected 20% improvement in team decision-making.
 - Developed an AI chatbot for scouts to interact with the dashboard utilizing the RAG pipeline.
-![Scout AI Assitant](images/Scout_AI_Assistant.png)
+![Scout AI Assitant](images/RADAR.png) ![Scout AI Assitant](images/Scout_AI_Assistant.png)
 
 **Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023_ - _December 2023_)**
 - Researched environmental factors affecting coffee sustainability in Brazil, Guatemala, Honduras, and Nicaragua.
