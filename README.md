@@ -53,7 +53,7 @@
 Developed a football goal prediction model using **R**, leveraging the Poisson distribution to enhance the accuracy of predictions by **10-12%**. This model not only generated match odds predictions that closely align with those of major betting sites but also calculated the probability of home and away wins for teams through simulation methods. The insights provided by this model offered valuable data for strategic decision-making in football analytics.
 
 <div style="display: flex;">
-  <img src="images/AttackVsDefence_recent.png" alt="Attack Vs Defence" style="margin-right: 10px; width: 400px;">
+  <img src="images/AttackVsDefence_recent.png" alt="Attack Vs Defence" style="margin-right: 10px; width: 500px;">
   <img src="images/Home  and Away Goal and win Prediction.png" alt="Home vs Away Win prediction" style="width: 500px;">
 </div>
 
