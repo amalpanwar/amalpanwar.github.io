@@ -58,6 +58,7 @@ Developed a football goal prediction model using **R**, leveraging the Poisson d
   <img src="images/Home  and Away Goal and win Prediction.png" alt="Home vs Away Win prediction" style="width: 500px;">
 </div>
 
+
 ### Cup of Excellence Text Analysis
 ***Skills:*** R, Excel, NLP, Word Cloud, R-shiny
 
