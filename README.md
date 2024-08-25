@@ -1,6 +1,6 @@
 # Data Analyst
 
-**Technical Skills**: Python, SQL, AWS, Snowflake, MATLAB
+**Technical Skills**: Python, SQL, AWS, Snowflake, MATLAB.
 **Programming**: Python (NumPy, matplotlib, pandas, Scikit-learn), SQL, R (Shiny, Statistical Packages, ggplot2, rvest), Java, C/C++, DAX.
 **Skills**: Mathematics (statistics and probability), Data Visualisation, Data mining and data QA, Microsoft Azure, Agile methodology, SSIS/SSRS/SSAS, Google Analytics, NLP, AI, RAG,  LangChain, Time series analysis (ARIMA, GARCH, LSTM), A/B Testing, Statistical analysis (Hypothesis testing, p-value), Problem-solving and troubleshooting.
 **Domain**: Insurance, Retail and Consumer Goods, Financial, Health, Sports.
@@ -17,18 +17,18 @@
 - Developed an AI chatbot for scouts to interact with the dashboard utilizing the RAG pipeline.
 ![Scout AI Assitant](/assets/img/Scout AI Assitant.jpeg)
 
-**Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023 - _December 2023)**
+**Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023_ - _December 2023_)**
 - Researched environmental factors affecting coffee sustainability in Brazil, Guatemala, Honduras, and Nicaragua.
 - Analysed macroeconomic indicators to assess their influence on the prices of Coffee Future.
 - Applied statistical and econometrics modelling techniques to achieve a mean absolute percentage error of less than 7% in predicting Coffee Future.
 - Recommended strategies to farmers that can increase sustainable coffee growth in tropical regions by 25%.
 ![Coffee Prediction](/assets/img/Scout AI Assitant.jpeg)
 
-**Data Analytics Consultant @ Capgemini (_March 2022 - _August 2022)**
+**Data Analytics Consultant @ Capgemini (_March 2022_ - _August 2022_)**
 - Streamlined ETL testing, boosting efficiency by 30% through Pytest automation.
 - Enhanced data analysis and reporting processes through proactive contributions.
 
-**Junior Data Analyst @ Cognizant (_November 2017 - _March 2022)**
+**Junior Data Analyst @ Cognizant (_November 2017_ - _March 2022_)**
 - Spearheaded development and implementation of a robust data analysis framework, refining end-to-end data extraction, transformation, and loading (ETL) processes.
 - Leveraged PySpark and Databricks for scalable big data processing, reducing data pipeline execution time by 35% and enhancing analytics capabilities.
 - Utilised T-SQL, MS Excel, and Power BI to uncover valuable insights, detect patterns and identify trends within complex datasets.
