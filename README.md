@@ -31,8 +31,8 @@
 - Applied statistical and econometrics modelling techniques to achieve a mean absolute percentage error of less than 7% in predicting Coffee Future.
 - Recommended strategies to farmers that can increase sustainable coffee growth in tropical regions by 25%.
 <div style="display: flex;">
-  <img src="images/Climate_Impact_Coffee.png" alt="Map plot" style="margin-right: 10px; width: 600px;">
-  <img src="images/CF_Forecast.png" alt="Coffee Future forecasting" style="width: 600px;">
+  <img src="images/Climate_Impact_Coffee.png" alt="Map plot" style="margin-right: 10px; width: 400px;">
+  <img src="images/CF_Forecast.png" alt="Coffee Future forecasting" style="width: 400px;">
 </div>
 
 **Data Analytics Consultant @ Capgemini (_March 2022_ - _August 2022_)**
