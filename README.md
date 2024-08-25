@@ -1,10 +1,15 @@
 # Data Analyst
 
 **Technical Skills**: Python, SQL, AWS, Snowflake, MATLAB.
+
 **Programming**: Python (NumPy, matplotlib, pandas, Scikit-learn), SQL, R (Shiny, Statistical Packages, ggplot2, rvest), Java, C/C++, DAX.
+
 **Skills**: Mathematics (statistics and probability), Data Visualisation, Data mining and data QA, Microsoft Azure, Agile methodology, SSIS/SSRS/SSAS, Google Analytics, NLP, AI, RAG,  LangChain, Time series analysis (ARIMA, GARCH, LSTM), A/B Testing, Statistical analysis (Hypothesis testing, p-value), Problem-solving and troubleshooting.
+
 **Domain**: Insurance, Retail and Consumer Goods, Financial, Health, Sports.
+
 **Tools and Technology**: Microsoft Office Suite (Dynamic 365, Power BI, Excel, etc.), SQL Server Management Studio, Jira, Guidewire, NetLogo, Jupyter, Rstudio, Visual Studio Enterprise, Teradata, Jupyter, and Visio.
+
 **Interests**: Football, Cricket, Tennis, Sports Analytics, General Knowledge, Political Science, Stock Market.
 
 
