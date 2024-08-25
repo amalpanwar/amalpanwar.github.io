@@ -49,6 +49,7 @@
 
 ## Projects
 ### Footbal Analytics
+***Skills:*** R, Excel, Poisson Distribution, Generalised Linear Model (glm), Hypothesis testing, Probability 
 
 Developed a football goal prediction model using **R**, leveraging the Poisson distribution to enhance the accuracy of predictions by **10-12%**. This model not only generated match odds predictions that closely align with those of major betting sites but also calculated the probability of home and away wins for teams through simulation methods. The insights provided by this model offered valuable data for strategic decision-making in football analytics.
 
@@ -57,10 +58,15 @@ Developed a football goal prediction model using **R**, leveraging the Poisson d
   <img src="images/Home  and Away Goal and win Prediction.png" alt="Home vs Away Win prediction" style="width: 500px;">
 </div>
 
+### Cup of Excellence Text Analysis
+***Skills:*** R, Excel, NLP, Word Cloud, R-shiny
+
+I extracted data on flavor, aroma, and other key features from the COE for premium coffees and used this data to develop an interactive R Shiny app dashboard. This tool allows users to adjust the price and visualize which flavors are most prominently highlighted in a word cloud. By analyzing consumer preferences for top-tier coffees, even those priced between USD 50/lbs and 150/lbs, I identified that taste and aroma significantly influence purchasing decisions. This insight highlights the critical role of sensory experiences in consumer behavior, similar to trends seen in the craft beer industry. While ICE coffee is typically priced between USD 1.5/lbs and 2/lbs, COE coffee can command prices up to USD 180/lbs. As one judge famously remarked upon tasting the Esmeralda Special in 2007, it was like ***"seeing the face of God in a cup."***
+
 
 ## Education
-- M.Sc., Data Analytics | The University of Strathclyde at Glasgow (_Sep 2023_)								       		
+- M.Sc., Data Analytics                     | The University of Strathclyde at Glasgow (_Sep 2023_)								       		
 - B.Tech., Computer Science and Engineering	| Galgotias University (_Sep 2017_)	 			        		
 
-- [LinkedIn Article]([https://medium.com/@shawhin](https://www.linkedin.com/pulse/game-changing-insights-unveiling-data-science-behind-summer-panwar-czwre/?trackingId=Zu64LOGzPvNwlBpFDUWZ%2Bw%3D%3D))
+[LinkedIn Article]([https://medium.com/@shawhin](https://www.linkedin.com/pulse/game-changing-insights-unveiling-data-science-behind-summer-panwar-czwre/?trackingId=Zu64LOGzPvNwlBpFDUWZ%2Bw%3D%3D))
 
