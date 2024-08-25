@@ -20,7 +20,7 @@
 - Developed performance analysis dashboards and conducted training sessions, resulting in a 10% increase in data-driven decision-making within the club.
 - Integrating data from various scout reports to create visualizations that identify player strengths and weaknesses, with an expected 20% improvement in team decision-making.
 - Developed an AI chatbot for scouts to interact with the dashboard utilizing the RAG pipeline.
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
   <img src="images/RADAR.png" alt="Radar plot" style="margin-right: 10px; width: 200px;">
   <img src="images/Scout_AI_Assistant.png" alt="Scout AI Assistant" style="width: 200px;">
 </div>
