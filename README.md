@@ -15,7 +15,7 @@
 
 
 ## Work Experience
-<span style="background-color: #f0f0f0; padding: 5px; border-radius: 4px;">
+<span style="background-color: 'blue'; padding: 5px; border-radius: 4px;">
   <strong>Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023_ - _December 2023_)</strong>
 </span>
 - Leverage WyScout data and utilise ML algorithm to identify high-potential player replacements, expecting significant improvement in team performance.
