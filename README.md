@@ -24,7 +24,7 @@
   <img src="images/RADAR.png" alt="Radar plot" style="margin-right: 10px; width: 600px;">
   <img src="images/Scout_AI_Assistant.png" alt="Scout AI Assistant" style="width: 600px;">
 </div>
-
+<br><br>
 **Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023_ - _December 2023_)**
 - Researched environmental factors affecting coffee sustainability in Brazil, Guatemala, Honduras, and Nicaragua.
 - Analysed macroeconomic indicators to assess their influence on the prices of Coffee Future.
@@ -34,7 +34,7 @@
   <img src="images/Climate_Impact_Coffee.png" alt="Map plot" style="margin-right: 10px; width: 400px;">
   <img src="images/CF_Forecast.png" alt="Coffee Future forecasting" style="width: 500px;">
 </div>
-
+<br><br>
 **Data Analytics Consultant @ Capgemini (_March 2022_ - _August 2022_)**
 - Streamlined ETL testing, boosting efficiency by 30% through Pytest automation.
 - Enhanced data analysis and reporting processes through proactive contributions.
