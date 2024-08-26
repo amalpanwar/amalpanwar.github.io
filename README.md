@@ -144,6 +144,11 @@ I extracted data on flavor, aroma, and other key features from the COE for premi
   <img src="images/CoE_APP_screenshot.png" alt="COE" style="margin-right: 10px; width: 600px;">
 </div>
 <br><br>
+
+### Analysis of NHS Bed Availability
+
+In this Project, I developed an interactive Power BI dashboard to analyze large datasets and extract actionable insights. By identifying patterns in Scotland's NHS bed availability, I proposed a data-driven approach that improved allocation strategies by 30%. Additionally, I used machine learning models to forecast inpatient bed demand, enhancing resource management and patient care efficiency.
+
 ## Education
 <table>
   <tr>
