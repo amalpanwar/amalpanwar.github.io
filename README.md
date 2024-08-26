@@ -146,9 +146,20 @@ I extracted data on flavor, aroma, and other key features from the COE for premi
 <br><br>
 
 ### Analysis of NHS Bed Availability
+<div style="padding: 2px; border-radius: 2px;">
+  <strong>Skills:</strong> 
+  <span style="background-color: #03420f; padding: 2px; border-radius: 5px; margin-right: 2px;">Excel</span>
+  <span style="background-color: #082ca8; padding: 2px; border-radius: 5px; margin-right: 2px;">Power BI</span>
+  <span style="background-color: #9c0a25; padding: 2px; border-radius: 5px; margin-right: 2px;">Report Writing</span>
+  <span style="background-color: #9333ff; padding: 2px; border-radius: 5px;">Microsoft Power Point</span>
+</div>
 
-In this Project, I developed an interactive Power BI dashboard to analyze large datasets and extract actionable insights. By identifying patterns in Scotland's NHS bed availability, I proposed a data-driven approach that improved allocation strategies by 30%. Additionally, I used machine learning models to forecast inpatient bed demand, enhancing resource management and patient care efficiency.
+In this Project, I developed an interactive Power BI dashboard to analyze large datasets and extract actionable insights. By identifying patterns in Scotland's NHS bed availability, I proposed a data-driven approach that improved allocation strategies by 30%. Additionally, I proposed machine learning models K-SVR to forecast inpatient bed demand, enhancing resource management and patient care efficiency.
+<div style="display: flex;">
+  <img src="images/NHS_pic.png" alt="NHS Analysis" style="margin-right: 10px; width: 600px;">
+</div>
 
+<br><br>
 ## Education
 <table>
   <tr>
