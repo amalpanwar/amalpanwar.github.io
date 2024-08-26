@@ -58,14 +58,14 @@
 
 ## Projects
 ### Footbal Analytics
-<div style="padding: 10px; border-radius: 8px;">
+<div style="padding: 2px; border-radius: 8px;">
   <strong>Skills:</strong> 
-  <span style="background-color: #f9f9f9; padding: 5px; border-radius: 5px; margin-right: 5px;">R</span>
-  <span style="background-color: #e0f7fa; padding: 5px; border-radius: 5px; margin-right: 5px;">Excel</span>
-  <span style="background-color: #ffe0b2; padding: 5px; border-radius: 5px; margin-right: 5px;">Poisson Distribution</span>
-  <span style="background-color: #d1c4e9; padding: 5px; border-radius: 5px; margin-right: 5px;">Generalised Linear Model (glm)</span>
-  <span style="background-color: #c8e6c9; padding: 5px; border-radius: 5px; margin-right: 5px;">Hypothesis testing</span>
-  <span style="background-color: #ffccbc; padding: 5px; border-radius: 5px;">Probability</span>
+  <span style="background-color: #9333ff; padding: 5px; border-radius: 5px; margin-right: 5px;">R</span>
+  <span style="background-color: #03420f; padding: 5px; border-radius: 5px; margin-right: 5px;">Excel</span>
+  <span style="background-color: #422503; padding: 5px; border-radius: 5px; margin-right: 5px;">Poisson Distribution</span>
+  <span style="background-color: #c66e08; padding: 5px; border-radius: 5px; margin-right: 5px;">Generalised Linear Model (glm)</span>
+  <span style="background-color: #a41499; padding: 5px; border-radius: 5px; margin-right: 5px;">Hypothesis testing</span>
+  <span style="background-color: #14a481; padding: 5px; border-radius: 5px;">Probability</span>
 </div>
 
 Developed a football goal prediction model using **R**, leveraging the Poisson distribution to enhance the accuracy of predictions by **10-12%**. This model not only generated match odds predictions that closely align with those of major betting sites but also calculated the probability of home and away wins for teams through simulation methods. The insights provided by this model offered valuable data for strategic decision-making in football analytics.
