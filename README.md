@@ -1,5 +1,6 @@
-# Data Analyst
+# Data Analyst-Portfolio
 
+## Skills and Interests
 **Technical Skills**: Python, SQL, AWS, Snowflake, MATLAB.
 
 **Programming**: Python (NumPy, matplotlib, pandas, Scikit-learn), SQL, R (Shiny, Statistical Packages, ggplot2, rvest), Java, C/C++, DAX.
