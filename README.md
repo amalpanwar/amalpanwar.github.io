@@ -15,7 +15,9 @@
 
 
 ## Work Experience
-**Data Analyst @ Elgin City FC(_June 2024 - Present_)**
+<span style="background-color: #f0f0f0; padding: 5px; border-radius: 4px;">
+  <strong>Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023_ - _December 2023_)</strong>
+</span>
 - Leverage WyScout data and utilise ML algorithm to identify high-potential player replacements, expecting significant improvement in team performance.
 - Create visual comparisons of target players against league benchmarks using ggplot and radar plots, enhancing scouting efficiency.
 - Developed performance analysis dashboards and conducted training sessions, resulting in a 10% increase in data-driven decision-making within the club.
