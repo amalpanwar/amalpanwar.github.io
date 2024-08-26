@@ -4,7 +4,7 @@
       <div class="logo"><a href="#">Portfolio.</a></div>
       <p align="right"> 
         <a href="https://www.linkedin.com/in/amal-panwar-031981119/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="bash" width="40" height="40"/> </a>
-        <a href="https://github.com/amalpanwar" target="_blank" rel="noreferrer"> <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0WBblfLB_IIkKYhmC6xU-9&ust=1724791526623000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDj9KTDk4gDFQAAAAAdAAAAABAE" alt="aws" width="40" height="40"/> </a> 
+        <a href="https://github.com/amalpanwar" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" alt="aws" width="40" height="40"/> </a> 
     </p>
     </div> </nav>
 
