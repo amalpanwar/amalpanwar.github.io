@@ -1,18 +1,73 @@
 # Data Analyst-Portfolio
 
 ## Skills and Interests
-**Technical Skills**: Python, SQL, AWS, Snowflake, MATLAB.
 
-**Programming**: Python (NumPy, matplotlib, pandas, Scikit-learn), SQL, R (Shiny, Statistical Packages, ggplot2, rvest), Java, C/C++, DAX.
+<div style="padding: 2px; border-radius: 2px;">
+  <strong>Programming:</strong> 
+  <span style="background-color: #f62211; padding: 2px; border-radius: 5px; margin-right: 2px;">Python (NumPy, matplotlib, pandas, Scikit-learn)</span>
+  <span style="background-color: #909014; padding: 2px; border-radius: 5px; margin-right: 2px;">SQL</span>
+  <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">R (Shiny, Statistical Packages, ggplot2, rvest)</span>
+  <span style="background-color: #c66e08; padding: 2px; border-radius: 5px; margin-right: 2px;">Java</span>
+  <span style="background-color: #a41499; padding: 2px; border-radius: 5px; margin-right: 2px;">C/C++</span>
+  <span style="background-color: #14a481; padding: 2px; border-radius: 5px;">DAX</span>
+</div>
 
-**Skills**: Mathematics (statistics and probability), Data Visualisation, Data mining and data QA, Microsoft Azure, Agile methodology, SSIS/SSRS/SSAS, Google Analytics, NLP, AI, RAG,  LangChain, Time series analysis (ARIMA, GARCH, LSTM), A/B Testing, Statistical analysis (Hypothesis testing, p-value), Problem-solving and troubleshooting.
+<div style="padding: 2px; border-radius: 2px;">
+  <strong>Skills:</strong> 
+  <span style="background-color: #f62211; padding: 2px; border-radius: 5px; margin-right: 2px;">Mathematics (statistics and probability)</span>
+  <span style="background-color: #909014; padding: 2px; border-radius: 5px; margin-right: 2px;">Data Visualisation</span>
+  <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">Data mining and data QA</span>
+  <span style="background-color: #c66e08; padding: 2px; border-radius: 5px; margin-right: 2px;">Microsoft Azure</span>
+  <span style="background-color: #a41499; padding: 2px; border-radius: 5px; margin-right: 2px;">Agile methodology</span>
+  <span style="background-color: #fa6048; padding: 2px; border-radius: 5px; margin-right: 2px;">SSIS/SSRS/SSAS</span>
+  <span style="background-color: #363d06; padding: 2px; border-radius: 5px; margin-right: 2px;">Google Analytics</span>
+  <span style="background-color: #a8099a; padding: 2px; border-radius: 5px; margin-right: 2px;">NLP</span>
+  <span style="background-color: #2e157a; padding: 2px; border-radius: 5px; margin-right: 2px;">AI</span>
+  <span style="background-color: #480a43; padding: 2px; border-radius: 5px; margin-right: 2px;">RAG</span>
+  <span style="background-color: #fd053d; padding: 2px; border-radius: 5px; margin-right: 2px;">LangChain</span>
+  <span style="background-color: #133e04; padding: 2px; border-radius: 5px; margin-right: 2px;">Time series analysis (ARIMA, GARCH, LSTM)</span>
+  <span style="background-color: #d7770a; padding: 2px; border-radius: 5px; margin-right: 2px;">A/B Testing</span>
+  <span style="background-color: #977a0d; padding: 2px; border-radius: 5px; margin-right: 2px;">Problem-solving</span>
+  <span style="background-color: #078dc7; padding: 2px; border-radius: 5px; margin-right: 2px;">troubleshooting</span>
+  <span style="background-color: #4a056e; padding: 2px; border-radius: 5px;">Business Acumen</span>
+</div>
 
-**Domain**: Insurance, Retail and Consumer Goods, Financial, Health, Sports.
+<div style="padding: 2px; border-radius: 2px;">
+  <strong>Domain:</strong> 
+  <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">Insurance</span>
+  <span style="background-color: #a41499; padding: 2px; border-radius: 5px; margin-right: 2px;">Retail and Consumer Goods</span>
+  <span style="background-color: #363d06; padding: 2px; border-radius: 5px; margin-right: 2px;">Financial</span>
+  <span style="background-color: #2e157a; padding: 2px; border-radius: 5px; margin-right: 2px;">Health</span>
+  <span style="background-color: #4a056e; padding: 2px; border-radius: 5px;">Sports</span>
+</div>
+
 
 **Tools and Technology**: Microsoft Office Suite (Dynamic 365, Power BI, Excel, etc.), SQL Server Management Studio, Jira, Guidewire, NetLogo, Jupyter, Rstudio, Visual Studio Enterprise, Teradata, Jupyter, and Visio.
 
-**Interests**: Football, Cricket, Tennis, Sports Analytics, General Knowledge, Political Science, Stock Market.
+<div style="padding: 2px; border-radius: 2px;">
+  <strong>Tools and Technology:</strong> 
+  <span style="background-color: #f62211; padding: 2px; border-radius: 5px; margin-right: 2px;">Microsoft Office Suite (Dynamic 365, Power BI, Excel, etc.)</span>
+  <span style="background-color: #909014; padding: 2px; border-radius: 5px; margin-right: 2px;">SQL Server Management Studio</span>
+  <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">Jira</span>
+  <span style="background-color: #c66e08; padding: 2px; border-radius: 5px; margin-right: 2px;">Guidewire</span>
+  <span style="background-color: #a41499; padding: 2px; border-radius: 5px; margin-right: 2px;">NetLogo</span>
+  <span style="background-color: #fa6048; padding: 2px; border-radius: 5px; margin-right: 2px;">Jupyter</span>
+  <span style="background-color: #363d06; padding: 2px; border-radius: 5px; margin-right: 2px;">Rstudio</span>
+  <span style="background-color: #a8099a; padding: 2px; border-radius: 5px; margin-right: 2px;">Visual Studio Enterprise</span>
+  <span style="background-color: #2e157a; padding: 2px; border-radius: 5px; margin-right: 2px;">Teradata</span>
+  <span style="background-color: #4a056e; padding: 2px; border-radius: 5px;">Visio</span>
+</div>
 
+<div style="padding: 2px; border-radius: 2px;">
+  <strong>Interests:</strong> 
+  <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">Football</span>
+  <span style="background-color: #a41499; padding: 2px; border-radius: 5px; margin-right: 2px;">Cricket</span>
+  <span style="background-color: #363d06; padding: 2px; border-radius: 5px; margin-right: 2px;">Tennis</span>
+  <span style="background-color: #2e157a; padding: 2px; border-radius: 5px; margin-right: 2px;">Sports Analytics</span>
+  <span style="background-color: #c76a13; padding: 2px; border-radius: 5px; margin-right: 2px;">General Knowledge</span>
+  <span style="background-color: #c7139e; padding: 2px; border-radius: 5px; margin-right: 2px;">Political Science</span>
+  <span style="background-color: #4a056e; padding: 2px; border-radius: 5px;">Stock Market</span>
+</div>
 
 ## Work Experience
 <span style="background-color: #3c33ff; padding: 5px; border-radius: 4px;">
@@ -79,7 +134,7 @@ Developed a football goal prediction model using **R**, leveraging the Poisson d
 <div style="padding: 2px; border-radius: 2px;">
   <strong>Skills:</strong> 
   <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">R</span>
-  <span style="background-color: #f2254b; padding: 2px; border-radius: 5px; margin-right: 2px;">Excel</span>
+  <span style="background-color: #03420f; padding: 2px; border-radius: 5px; margin-right: 2px;">Excel</span>
   <span style="background-color: #082ca8; padding: 2px; border-radius: 5px; margin-right: 2px;">NLP</span>
   <span style="background-color: #9c0a25; padding: 2px; border-radius: 5px; margin-right: 2px;">Word Cloud</span>
   <span style="background-color: #9333ff; padding: 2px; border-radius: 5px;">R-shiny</span>
