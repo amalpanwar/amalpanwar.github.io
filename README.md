@@ -16,7 +16,7 @@
 
 ## Work Experience
 <span style="background-color: #3c33ff; padding: 5px; border-radius: 4px;">
-  <strong>Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023_ - _December 2023_)</strong>
+  <strong>Data Analyst @ Elgin City FC (_June 2024 - Present_)</strong>
 </span>
 - Leverage WyScout data and utilise ML algorithm to identify high-potential player replacements, expecting significant improvement in team performance.
 - Create visual comparisons of target players against league benchmarks using ggplot and radar plots, enhancing scouting efficiency.
@@ -28,7 +28,9 @@
   <img src="images/Scout_AI_Assistant.png" alt="Scout AI Assistant" style="width: 600px;">
 </div>
 <br><br>
-**Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023_ - _December 2023_)**
+<span style="background-color: #3c33ff; padding: 5px; border-radius: 4px;">
+  <strong>Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023_ - _December 2023_)</strong>
+</span>
 - Researched environmental factors affecting coffee sustainability in Brazil, Guatemala, Honduras, and Nicaragua.
 - Analysed macroeconomic indicators to assess their influence on the prices of Coffee Future.
 - Applied statistical and econometrics modelling techniques to achieve a mean absolute percentage error of less than 7% in predicting Coffee Future.
@@ -38,11 +40,15 @@
   <img src="images/CF_Forecast.png" alt="Coffee Future forecasting" style="width: 500px;">
 </div>
 <br><br>
-**Data Analytics Consultant @ Capgemini (_March 2022_ - _August 2022_)**
+<span style="background-color: #3c33ff; padding: 5px; border-radius: 4px;">
+  <strong>Data Analytics Consultant @ Capgemini (_March 2022_ - _August 2022_)</strong>
+</span>
 - Streamlined ETL testing, boosting efficiency by 30% through Pytest automation.
 - Enhanced data analysis and reporting processes through proactive contributions.
 
-**Junior Data Analyst @ Cognizant (_November 2017_ - _March 2022_)**
+<span style="background-color: #3c33ff; padding: 5px; border-radius: 4px;">
+  <strong>Junior Data Analyst @ Cognizant (_November 2017_ - _March 2022_)</strong>
+</span>
 - Spearheaded development and implementation of a robust data analysis framework, refining end-to-end data extraction, transformation, and loading (ETL) processes.
 - Leveraged PySpark and Databricks for scalable big data processing, reducing data pipeline execution time by 35% and enhancing analytics capabilities.
 - Utilised T-SQL, MS Excel, and Power BI to uncover valuable insights, detect patterns and identify trends within complex datasets.
