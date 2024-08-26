@@ -67,7 +67,7 @@
 </div>
 <br>
 ## Work Experience
-<span style="background-color: #63da0b; padding: 5px; border-radius: 4px;">
+<span style="background-color: #58a51e; padding: 5px; border-radius: 4px;">
   <strong>Data Analyst @ Elgin City FC (_June 2024 - Present_)</strong>
 </span>
 - Leverage WyScout data and utilise ML algorithm to identify high-potential player replacements, expecting significant improvement in team performance.
@@ -80,7 +80,7 @@
   <img src="images/Scout_AI_Assistant.png" alt="Scout AI Assistant" style="width: 600px;">
 </div>
 <br><br>
-<span style="background-color: #63da0b; padding: 5px; border-radius: 4px;">
+<span style="background-color: #58a51e; padding: 5px; border-radius: 4px;">
   <strong>Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023_ - _December 2023_)</strong>
 </span>
 - Researched environmental factors affecting coffee sustainability in Brazil, Guatemala, Honduras, and Nicaragua.
@@ -92,13 +92,14 @@
   <img src="images/CF_Forecast.png" alt="Coffee Future forecasting" style="width: 500px;">
 </div>
 <br><br>
-<span style="background-color: #63da0b; padding: 5px; border-radius: 4px;">
+<span style="background-color: #58a51e; padding: 5px; border-radius: 4px;">
   <strong>Data Analytics Consultant @ Capgemini (_March 2022_ - _August 2022_)</strong>
 </span>
 - Streamlined ETL testing, boosting efficiency by 30% through Pytest automation.
 - Enhanced data analysis and reporting processes through proactive contributions.
+
 <br>
-<span style="background-color: #63da0b; padding: 5px; border-radius: 4px;">
+<span style="background-color: #58a51e; padding: 5px; border-radius: 4px;">
   <strong>Junior Data Analyst @ Cognizant (_November 2017_ - _March 2022_)</strong>
 </span>
 - Spearheaded development and implementation of a robust data analysis framework, refining end-to-end data extraction, transformation, and loading (ETL) processes.
