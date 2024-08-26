@@ -11,7 +11,7 @@
   <span style="background-color: #a41499; padding: 2px; border-radius: 5px; margin-right: 2px;">C/C++</span>
   <span style="background-color: #14a481; padding: 2px; border-radius: 5px;">DAX</span>
 </div>
-
+<br><br>
 <div style="padding: 2px; border-radius: 2px;">
   <strong>Skills:</strong> 
   <span style="background-color: #f62211; padding: 2px; border-radius: 5px; margin-right: 2px;">Mathematics (statistics and probability)</span>
@@ -31,7 +31,7 @@
   <span style="background-color: #078dc7; padding: 2px; border-radius: 5px; margin-right: 2px;">troubleshooting</span>
   <span style="background-color: #4a056e; padding: 2px; border-radius: 5px;">Business Acumen</span>
 </div>
-
+<br><br>
 <div style="padding: 2px; border-radius: 2px;">
   <strong>Domain:</strong> 
   <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">Insurance</span>
@@ -40,10 +40,7 @@
   <span style="background-color: #2e157a; padding: 2px; border-radius: 5px; margin-right: 2px;">Health</span>
   <span style="background-color: #4a056e; padding: 2px; border-radius: 5px;">Sports</span>
 </div>
-
-
-**Tools and Technology**: Microsoft Office Suite (Dynamic 365, Power BI, Excel, etc.), SQL Server Management Studio, Jira, Guidewire, NetLogo, Jupyter, Rstudio, Visual Studio Enterprise, Teradata, Jupyter, and Visio.
-
+<br><br>
 <div style="padding: 2px; border-radius: 2px;">
   <strong>Tools and Technology:</strong> 
   <span style="background-color: #f62211; padding: 2px; border-radius: 5px; margin-right: 2px;">Microsoft Office Suite (Dynamic 365, Power BI, Excel, etc.)</span>
@@ -57,7 +54,7 @@
   <span style="background-color: #2e157a; padding: 2px; border-radius: 5px; margin-right: 2px;">Teradata</span>
   <span style="background-color: #4a056e; padding: 2px; border-radius: 5px;">Visio</span>
 </div>
-
+<br><br>
 <div style="padding: 2px; border-radius: 2px;">
   <strong>Interests:</strong> 
   <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">Football</span>
