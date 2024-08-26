@@ -63,6 +63,9 @@ Developed a football goal prediction model using **R**, leveraging the Poisson d
 
 I extracted data on flavor, aroma, and other key features from the COE for premium coffees and used this data to develop an interactive R Shiny app dashboard. This tool allows users to adjust the price and visualize which flavors are most prominently highlighted in a word cloud. By analyzing consumer preferences for top-tier coffees, even those priced between USD 50/lbs and 150/lbs, I identified that taste and aroma significantly influence purchasing decisions. This insight highlights the critical role of sensory experiences in consumer behavior, similar to trends seen in the craft beer industry. While ICE coffee is typically priced between USD 1.5/lbs and 2/lbs, COE coffee can command prices up to USD 180/lbs. As one judge famously remarked upon tasting the Esmeralda Special in 2007, it was like ***"seeing the face of God in a cup."***
 
+<div style="display: flex;">
+  <img src="images/CoE_APP_screenshot.png" alt="COE" style="margin-right: 10px; width: 600px;">
+</div>
 
 ## Education
 - M.Sc., Data Analytics                     | The University of Strathclyde at Glasgow (_Sep 2023_)								       		
