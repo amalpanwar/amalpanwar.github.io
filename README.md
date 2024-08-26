@@ -4,17 +4,17 @@
 
 <div style="padding: 2px; border-radius: 2px;">
   <strong>Programming:</strong> 
-  <span style="background-color: #f62211; padding: 2px; border-radius: 5px; margin-right: 2px;">Python (NumPy, matplotlib, pandas, Scikit-learn)</span>
+  <span style="background-color: #877a0b; padding: 2px; border-radius: 5px; margin-right: 2px;">Python (NumPy, matplotlib, pandas, Scikit-learn)</span>
   <span style="background-color: #909014; padding: 2px; border-radius: 5px; margin-right: 2px;">SQL</span>
   <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">R (Shiny, Statistical Packages, ggplot2, rvest)</span>
   <span style="background-color: #c66e08; padding: 2px; border-radius: 5px; margin-right: 2px;">Java</span>
   <span style="background-color: #a41499; padding: 2px; border-radius: 5px; margin-right: 2px;">C/C++</span>
   <span style="background-color: #14a481; padding: 2px; border-radius: 5px;">DAX</span>
 </div>
-<br><br>
+<br>
 <div style="padding: 2px; border-radius: 2px;">
   <strong>Skills:</strong> 
-  <span style="background-color: #f62211; padding: 2px; border-radius: 5px; margin-right: 2px;">Mathematics (statistics and probability)</span>
+  <span style="background-color: #2fac04; padding: 2px; border-radius: 5px; margin-right: 2px;">Mathematics (statistics and probability)</span>
   <span style="background-color: #909014; padding: 2px; border-radius: 5px; margin-right: 2px;">Data Visualisation</span>
   <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">Data mining and data QA</span>
   <span style="background-color: #c66e08; padding: 2px; border-radius: 5px; margin-right: 2px;">Microsoft Azure</span>
@@ -31,7 +31,7 @@
   <span style="background-color: #078dc7; padding: 2px; border-radius: 5px; margin-right: 2px;">troubleshooting</span>
   <span style="background-color: #4a056e; padding: 2px; border-radius: 5px;">Business Acumen</span>
 </div>
-<br><br>
+<br>
 <div style="padding: 2px; border-radius: 2px;">
   <strong>Domain:</strong> 
   <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">Insurance</span>
@@ -40,10 +40,10 @@
   <span style="background-color: #2e157a; padding: 2px; border-radius: 5px; margin-right: 2px;">Health</span>
   <span style="background-color: #4a056e; padding: 2px; border-radius: 5px;">Sports</span>
 </div>
-<br><br>
+<br>
 <div style="padding: 2px; border-radius: 2px;">
   <strong>Tools and Technology:</strong> 
-  <span style="background-color: #f62211; padding: 2px; border-radius: 5px; margin-right: 2px;">Microsoft Office Suite (Dynamic 365, Power BI, Excel, etc.)</span>
+  <span style="background-color: #047cac; padding: 2px; border-radius: 5px; margin-right: 2px;">Microsoft Office Suite (Dynamic 365, Power BI, Excel, etc.)</span>
   <span style="background-color: #909014; padding: 2px; border-radius: 5px; margin-right: 2px;">SQL Server Management Studio</span>
   <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">Jira</span>
   <span style="background-color: #c66e08; padding: 2px; border-radius: 5px; margin-right: 2px;">Guidewire</span>
@@ -54,7 +54,7 @@
   <span style="background-color: #2e157a; padding: 2px; border-radius: 5px; margin-right: 2px;">Teradata</span>
   <span style="background-color: #4a056e; padding: 2px; border-radius: 5px;">Visio</span>
 </div>
-<br><br>
+<br>
 <div style="padding: 2px; border-radius: 2px;">
   <strong>Interests:</strong> 
   <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">Football</span>
@@ -65,7 +65,7 @@
   <span style="background-color: #c7139e; padding: 2px; border-radius: 5px; margin-right: 2px;">Political Science</span>
   <span style="background-color: #4a056e; padding: 2px; border-radius: 5px;">Stock Market</span>
 </div>
-
+<br>
 ## Work Experience
 <span style="background-color: #3c33ff; padding: 5px; border-radius: 4px;">
   <strong>Data Analyst @ Elgin City FC (_June 2024 - Present_)</strong>
