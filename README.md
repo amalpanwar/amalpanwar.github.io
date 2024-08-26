@@ -45,7 +45,7 @@
 </span>
 - Streamlined ETL testing, boosting efficiency by 30% through Pytest automation.
 - Enhanced data analysis and reporting processes through proactive contributions.
-<br><br>
+
 <span style="background-color: #3c33ff; padding: 5px; border-radius: 4px;">
   <strong>Junior Data Analyst @ Cognizant (_November 2017_ - _March 2022_)</strong>
 </span>
