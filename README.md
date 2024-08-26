@@ -59,7 +59,7 @@
 ## Projects
 ### Footbal Analytics
 <div style="padding: 2px; border-radius: 8px;">
-  <strong>Skills:</strong> 
+  <h2>Skills:</h2> 
   <span style="background-color: #9333ff; padding: 5px; border-radius: 5px; margin-right: 5px;">R</span>
   <span style="background-color: #03420f; padding: 5px; border-radius: 5px; margin-right: 5px;">Excel</span>
   <span style="background-color: #422503; padding: 5px; border-radius: 5px; margin-right: 5px;">Poisson Distribution</span>
