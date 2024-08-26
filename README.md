@@ -59,7 +59,7 @@
 ## Projects
 ### Footbal Analytics
 <div style="padding: 2px; border-radius: 2px;">
-  <B>Skills:</B> 
+  <strong>Skills:</strong> 
   <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">R</span>
   <span style="background-color: #03420f; padding: 2px; border-radius: 5px; margin-right: 2px;">Excel</span>
   <span style="background-color: #422503; padding: 2px; border-radius: 5px; margin-right: 2px;">Poisson Distribution</span>
@@ -76,7 +76,14 @@ Developed a football goal prediction model using **R**, leveraging the Poisson d
 </div>
 <br><br>
 ### Cup of Excellence Text Analysis
-***Skills:*** R, Excel, NLP, Word Cloud, R-shiny
+<div style="padding: 2px; border-radius: 2px;">
+  <strong>Skills:</strong> 
+  <span style="background-color: #9333ff; padding: 2px; border-radius: 5px; margin-right: 2px;">R</span>
+  <span style="background-color: #f2254b; padding: 2px; border-radius: 5px; margin-right: 2px;">Excel</span>
+  <span style="background-color: #082ca8; padding: 2px; border-radius: 5px; margin-right: 2px;">NLP</span>
+  <span style="background-color: #9c0a25; padding: 2px; border-radius: 5px; margin-right: 2px;">Word Cloud</span>
+  <span style="background-color: #9333ff; padding: 2px; border-radius: 5px;">R-shiny</span>
+</div>
 
 I extracted data on flavor, aroma, and other key features from the COE for premium coffees and used this data to develop an interactive R Shiny app dashboard. This tool allows users to adjust the price and visualize which flavors are most prominently highlighted in a word cloud. By analyzing consumer preferences for top-tier coffees, even those priced between USD 50/lbs and 150/lbs, I identified that taste and aroma significantly influence purchasing decisions. This insight highlights the critical role of sensory experiences in consumer behavior, similar to trends seen in the craft beer industry. While ICE coffee is typically priced between USD 1.5/lbs and 2/lbs, COE coffee can command prices up to USD 180/lbs. As one judge famously remarked upon tasting the Esmeralda Special in 2007, it was like ***"seeing the face of God in a cup."***
 
