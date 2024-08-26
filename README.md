@@ -1,8 +1,8 @@
 # Data Analyst-Portfolio
-<nav style="background-color: black; padding: 10px;">
+<nav style="padding: 10px;">
     <div class="navbar" style="display: flex; justify-content: space-between; align-items: center;">
         <div class="logo">
-            <a href="#"><h1 style="color: white; margin: 0;">Portfolio.</h1></a>
+            <a href="#"><h1 style="margin: 0;">Portfolio.</h1></a>
         </div>
         <div style="display: flex; align-items: center;">
             <span style="background-color: #ffffff; padding: 5px; border-radius: 5px; margin-right: 10px;">
