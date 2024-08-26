@@ -1,11 +1,11 @@
 # Data Analyst-Portfolio
 <nav>
     <div class="navbar">
-      <div class="logo"><a href="#">Portfolio.</a></div>
-      <p align="right"> 
+      <div class="logo"><a href="#"><h1>Portfolio.</h1></a></div>
+      <span style="background-color: #f4f8f1; padding: 2px; border-radius: 5px; margin-right: 2px;"> <p align="right"> 
         <a href="https://www.linkedin.com/in/amal-panwar-031981119/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="bash" width="40" height="40"/> </a>
         <a href="https://github.com/amalpanwar" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" alt="aws" width="40" height="40"/> </a> 
-    </p>
+    </p> </span>
     </div> </nav>
 
 <br>
