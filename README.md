@@ -68,10 +68,23 @@ I extracted data on flavor, aroma, and other key features from the COE for premi
 </div>
 <br><br>
 ## Education
-| **Degree**                                | **Institution**                                        | **Date**        |
-|-------------------------------------------|--------------------------------------------------------|-----------------|
-| M.Sc., Data Analytics                     | The University of Strathclyde at Glasgow               | Sep 2023        |
-| B.Tech., Computer Science and Engineering | Galgotias University                                   | Sep 2017        |
+<table>
+  <tr>
+    <th style="text-align: left;">Degree</th>
+    <th style="text-align: left;">Institution</th>
+    <th style="text-align: left;">Date</th>
+  </tr>
+  <tr>
+    <td>M.Sc., Data Analytics</td>
+    <td>The University of Strathclyde at Glasgow, UK</td>
+    <td>Sep 2023</td>
+  </tr>
+  <tr>
+    <td>B.Tech., Computer Science and Engineering</td>
+    <td>Galgotias University at Greater Noida, India</td>
+    <td>Sep 2017</td>
+  </tr>
+</table>
 		        		
 
 [LinkedIn Article]([https://medium.com/@shawhin](https://www.linkedin.com/pulse/game-changing-insights-unveiling-data-science-behind-summer-panwar-czwre/?trackingId=Zu64LOGzPvNwlBpFDUWZ%2Bw%3D%3D))
