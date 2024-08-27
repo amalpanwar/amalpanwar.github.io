@@ -86,6 +86,8 @@
 </div>
 <br>
 ## Work Experience
+
+###Data Analyst @ Elgin City FC (_June 2024 - Present_)
 <span style="background-color: #58a51e; padding: 5px; border-radius: 4px;">
   <strong>Data Analyst @ Elgin City FC (_June 2024 - Present_)</strong>
 </span>
@@ -99,6 +101,7 @@
   <img src="images/Scout_AI_Assistant.png" alt="Scout AI Assistant" style="width: 600px;">
 </div>
 <br><br>
+###Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023_ - _December 2023_)
 <span style="background-color: #58a51e; padding: 5px; border-radius: 4px;">
   <strong>Data Analyst Internship @ Caribbean Goods Pvt. Ltd. (_May 2023_ - _December 2023_)</strong>
 </span>
@@ -111,6 +114,7 @@
   <img src="images/CF_Forecast.png" alt="Coffee Future forecasting" style="width: 500px;">
 </div>
 <br><br>
+###Data Analytics Consultant @ Capgemini (_March 2022_ - _August 2022_)
 <span style="background-color: #58a51e; padding: 5px; border-radius: 4px;">
   <strong>Data Analytics Consultant @ Capgemini (_March 2022_ - _August 2022_)</strong>
 </span>
@@ -118,6 +122,8 @@
 - Enhanced data analysis and reporting processes through proactive contributions.
 
 <br>
+
+###Junior Data Analyst @ Cognizant (_November 2017_ - _March 2022_)
 <span style="background-color: #58a51e; padding: 5px; border-radius: 4px;">
   <strong>Junior Data Analyst @ Cognizant (_November 2017_ - _March 2022_)</strong>
 </span>
