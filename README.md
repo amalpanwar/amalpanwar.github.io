@@ -128,6 +128,8 @@
 - Utilized machine learning modelling techniques in Python to develop a forecasting model, leading to a 15% reduction in inventory write-offs.
 - Thrived in collaborative team environments, demonstrating a proactive approach, strong multitasking abilities, and a history of autonomous contributions that significantly elevated data analysis and reporting processes.
 
+<br>
+
 ## Projects
 ### Footbal Analytics
 <div style="padding: 2px; border-radius: 2px;">
