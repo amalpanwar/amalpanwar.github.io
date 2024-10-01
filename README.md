@@ -1,7 +1,7 @@
 <nav style="padding: 10px;">
     <div class="navbar" style="display: flex; justify-content: space-between; align-items: center;">
         <div class="logo">
-           <h1 style="margin: 0;">Data Science-Portfolio</h1>
+           <h1 style="margin: 0;">Data Analyst-Portfolio</h1>
         </div>
         <div style="display: flex; align-items: center;">
             <span style="background-color: #ffffff; padding: 5px; border-radius: 5px; margin-right: 10px;">
@@ -88,7 +88,7 @@
 
 ## Work Experience
 
-### Data Scientist-Sports @ Elgin City FC (_June 2024 - Present_)
+### Data Analyst-Sports @ Elgin City FC (_June 2024 - Present_)
 
 - Leverage WyScout data and utilise ML algorithm to identify high-potential player replacements, expecting significant improvement in team performance.
 - Create visual comparisons of target players against league benchmarks using ggplot and radar plots, enhancing scouting efficiency.
@@ -119,7 +119,7 @@
 - Enhanced data analysis and reporting processes through proactive contributions.
 
 
-### Junior Data Engineer/Scientist @ Cognizant (_November 2017_ - _March 2022_)
+### Junior BI/Data Analyst @ Cognizant (_November 2017_ - _March 2022_)
 
 - Spearheaded development and implementation of a robust data analysis framework, refining end-to-end data extraction, transformation, and loading (ETL) processes.
 - Leveraged PySpark and Databricks for scalable big data processing, reducing data pipeline execution time by 35% and enhancing analytics capabilities.
