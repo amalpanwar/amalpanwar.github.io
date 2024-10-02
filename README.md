@@ -201,5 +201,5 @@ In this Project, I developed an interactive Power BI dashboard to analyze large 
 </table>
 		        		
 
-[LinkedIn Article]([https://medium.com/@shawhin](https://www.linkedin.com/pulse/game-changing-insights-unveiling-data-science-behind-summer-panwar-czwre/?trackingId=Zu64LOGzPvNwlBpFDUWZ%2Bw%3D%3D))
+[LinkedIn Article](https://www.linkedin.com/pulse/game-changing-insights-unveiling-data-science-behind-summer-panwar-czwre/?trackingId=Zu64LOGzPvNwlBpFDUWZ%2Bw%3D%3D)
 
